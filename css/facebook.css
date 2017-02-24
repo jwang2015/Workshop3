@@ -26,7 +26,7 @@ body {
   margin-bottom: 5px;
 }
 .fb-trending-title {
-  line-height: 100px;
+  line-height: 24px;
 }
 .fb-trending > .row:first-child {
   border-top: 1px solid lightgrey;
@@ -38,4 +38,7 @@ body {
   /* Margin is the whitespace between the border and adjacent elements */
   margin-top: 5px;
   margin-bottom: 5px;
+}
+.green {
+  color: green;
 }
